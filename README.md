@@ -1,5 +1,5 @@
 # Lazarus-Issues
-Issue tracker for Lazarus HCF core
+Issue tracker for Lazarus HCF core.
 
 Use this issue format:
  1. Your Mc-Market username
